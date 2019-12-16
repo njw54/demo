@@ -8,4 +8,4 @@ def sumTwoTerms(firstTerm, secondTerm):
     return firstTerm + secondTerm
 
 
-print("2 + 2 = {0}".format(sum(2, 2)))
+print("2 + 2 = {0}".format(sumTwoTerms(2, 2)))
