@@ -1,8 +1,11 @@
+"""This module does s basic sum"""
+
+
 def sum_two_terms(first_term, second_term):
     """
     Make a sum for two terms.
-    :param firstTerm: the first term to sum
-    :param secondTerm: the second term to sum
+    :param first_term: the first term to sum
+    :param second_term: the second term to sum
     :return: sun of both terms
     """
     return first_term + second_term
